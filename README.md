@@ -1,6 +1,6 @@
 ## Oie!! Eu sou a Lorena Rinaldo
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Lorena-Rinaldo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lorena-Rinaldo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorena_Rinaldo&layout=compact&langs_count=16&theme=dracula"/>
 </div>
