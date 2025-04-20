@@ -1,8 +1,8 @@
 ## Oie!! Eu sou a Lorena Rinaldo
  <div>
   <a href="https://github.com/Lorena-Rinaldo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lorena-Rinaldo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorena-Rinaldo&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lorena-Rinaldo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorena-Rinaldo&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
    
 <div style="display: inline_block"><br>
