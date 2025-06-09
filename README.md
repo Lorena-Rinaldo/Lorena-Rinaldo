@@ -15,8 +15,8 @@
 
 ### Aprendendo:
   <div style="display: inline_block"><br>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Lorena-Python" width="40" height="30" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Lorena-Rinaldo" width="40" height="30" /> 
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Lorena-Python" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Lorena-JS" width="70" height="57" /> 
   </div>
    
  ##
