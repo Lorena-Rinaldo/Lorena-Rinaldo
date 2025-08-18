@@ -14,11 +14,14 @@
 </div>
 
 ### Aprendendo:
-  <div style="display: inline_block"><br>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Lorena-Python" width="40" height="40" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Lorena-JS" width="70" height="57" /> 
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-  </div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 32px;">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" /> 
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+</div>
    
  ##
 
