@@ -6,7 +6,6 @@ Oie! Sou Lorena Rinaldo, uma desenvolvedora FullStack em formação, apaixonada 
   
   Minha abordagem é orientada a resultados: gosto de transformar ideias em **soluções funcionais** com foco, lógica e criatividade. Valorizo a **clareza na comunicação** e o código bem estruturado.
   
-  No momento, dedico-me a aprofundar meus conhecimentos em **Python** e **JavaScript**, evoluindo a cada novo projeto.
 </p>
 
 ---
@@ -34,6 +33,7 @@ Oie! Sou Lorena Rinaldo, uma desenvolvedora FullStack em formação, apaixonada 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40px" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40px" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40px" title="MySQL"/>
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="Flask" width="40px" title="Flask"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40px" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40px" title="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40px" title="React"/>
