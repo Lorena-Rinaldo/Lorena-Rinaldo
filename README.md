@@ -47,4 +47,7 @@ Oie! Sou Lorena Rinaldo, uma desenvolvedora FullStack em formação, apaixonada 
   <a href="https://www.linkedin.com/in/lorena-rinaldo01" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Lorena Rinaldo">
   </a>
+  <a href="https://vercel.com/lorena-rinaldos-projects" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel de Lorena Rinaldo">
+  </a>
 </p>
