@@ -10,14 +10,6 @@ Oie! Sou Lorena Rinaldo, uma desenvolvedora FullStack em formação, apaixonada 
 
 ---
 
-<h3 align="center">Estatísticas do Meu GitHub</h3>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lorena-Rinaldo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorena-Rinaldo&layout=compact&langs_count=16&theme=github_dark&hide_border=true"/>
-</div>
-
----
-
 ### Habilidades Principais
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40px" title="HTML"/>
