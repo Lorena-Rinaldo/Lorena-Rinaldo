@@ -2,7 +2,7 @@
 <p align="center">
 Oie! Sou Lorena Rinaldo, uma desenvolvedora FullStack em formação, apaixonada por tecnologia e com 16 anos.
   
-  Atualmente, estou cursando o 2º ano do **Ensino Médio Técnico em Desenvolvimento de Sistemas** em dois períodos (integrado SESI/SENAI e Etec), o que me proporciona uma base sólida e intensiva na área. Complemento minha jornada de aprendizado com cursos na **Alura**, focando em programação e Front-End para expandir continuamente meu *skillset*.
+  Atualmente, estou cursando o 3º ano do **Ensino Médio Técnico em Desenvolvimento de Sistemas** em dois períodos (integrado SESI/SENAI e Etec), o que me proporciona uma base sólida e intensiva na área. Complemento minha jornada de aprendizado com cursos na **Alura**, focando em programação e Front-End para expandir continuamente meu *skillset*.
   
   Minha abordagem é orientada a resultados: gosto de transformar ideias em **soluções funcionais** com foco, lógica e criatividade. Valorizo a **clareza na comunicação** e o código bem estruturado.
   
